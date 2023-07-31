@@ -1,40 +1,36 @@
 # Frontend
 
-### Follow below instructions to setup project
+### Follow the below instructions to setup the project
 
-1) Install the nvm or using the npm version 16.17.1.
+1) Install the nvm or use the npm version 16.17.1.
  
-2) Clone the repo. 
+2) Clone the repo.
+   https://github.com/priyankamackwan/User-CRUD-React-Node.git
 
-3) Install node packages.
-   -cd projectdir .
-   -npm install.
+4) Install node packages.
+   - cd User-CRUD-React-Node
+   - npm install
    
-4) create an .env file including below variable.
+5) create a .env file including the below variable.
 REACT_APP_API_URL="ENTER YOUR API_URL"
 FOR EXAMPLE :-- REACT_APP_API_URL="http://localhost:3012"
 
-5) Runs the app in the development mode.
+6) Runs the app in development mode.
 ### `npm start`
 
-Runs the app in the development mode.\
+It runs the app in development mode.\
 Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 
 The page will reload when you make changes.\
 You may also see any lint errors in the console.
 
-
-
-
-
-
 # **Backend**
 
-### 1) Install mongo db your local system. Or
-  You  can also create a cluster on the mongodb atles server.
+### 1) Install mongo db on your local system. Or
+  You  can also create a cluster on the MongoDB atlas server.
    https://account.mongodb.com/account/login
    
-### 2)  create a .env  file including below variable.
+### 2)  create a .env  file including the below variable.
     PORT =  Enter Your PORT 
     DB_USERNAME= Enter Your Mongodb Online Cluster USERNAME.
     DB_PASSWORD=Enter Your Mongodb Online Cluster PASSWORD.
@@ -42,10 +38,10 @@ You may also see any lint errors in the console.
 ### 3) Install node packages.
    -npm install.
    
-### 4) Runs the app in the development mode.
+### 4) Runs the app in development mode.
     `npm start`
     
- ### 5) Runs the app in the development mode.
+ ### 5) Runs the app in development mode.
     Open http://localhost:[port]/ to view it in your browser.
-    Note:-- upper url in port number that we passing in the .env file.
+    Note:-- upper url in the port number that we are passing in the .env file.
     
