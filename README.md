@@ -5,7 +5,8 @@
 1) Install the nvm or use the npm version 16.17.1.
  
 2) Clone the repo.
-   https://github.com/priyankamackwan/User-CRUD-React-Node.git
+
+   git clone https://github.com/priyankamackwan/User-CRUD-React-Node.git
 
 4) Install node packages.
    - cd User-CRUD-React-Node
